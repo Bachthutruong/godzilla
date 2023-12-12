@@ -3741,10 +3741,10 @@
   resolved "https://registry.npmjs.org/@uniswap/conedison/-/conedison-1.8.0.tgz"
   integrity sha512-EeC37bbrd4sJnqW3TxNhExdWUBvzyJDhbTXcbDzFdBh/bg5sOCu1NbYJEnrjwBHEfewc9nF2OjEzejJFyJUx9A==
 
-"@uniswap/default-token-list@^11.2.0", "@uniswap/default-token-list@^11.6.0":
-  version "11.6.0"
-  resolved "https://registry.npmjs.org/@uniswap/default-token-list/-/default-token-list-11.6.0.tgz"
-  integrity sha512-4OS+sStju/pOp6w96RL275XDB3VrIiOBqPvqFHVAKP3mMtueYMRjpHEj+BhCi3l0bUmhllz6SyGt1OxD4IMeDQ==
+"@uniswap/default-token-list@^11.10.0", "@uniswap/default-token-list@^11.2.0":
+  version "11.10.0"
+  resolved "https://registry.yarnpkg.com/@uniswap/default-token-list/-/default-token-list-11.10.0.tgz#3f04cdb4c318f170df21715e7cf5e2e4ab20fda8"
+  integrity sha512-WUxS3rRbmxpXwACx30TSCwoYKrrtRuXGgVrMIPnDLzjfsITrAW1g9131CNxeFJzSnLj0THiYBRRwJoW1r8UkFQ==
 
 "@uniswap/lib@^4.0.1-alpha":
   version "4.0.1-alpha"
@@ -3775,7 +3775,7 @@
     "@uniswap/v2-sdk" "^3.2.0"
     "@uniswap/v3-sdk" "^3.10.0"
 
-"@uniswap/sdk-core@^4", "@uniswap/sdk-core@^4.0.0", "@uniswap/sdk-core@^4.0.2", "@uniswap/sdk-core@^4.0.7":
+"@uniswap/sdk-core@^4", "@uniswap/sdk-core@^4.0.0", "@uniswap/sdk-core@^4.0.7":
   version "4.0.7"
   resolved "https://registry.yarnpkg.com/@uniswap/sdk-core/-/sdk-core-4.0.7.tgz#90dfd070d7e44494234618af398da158363ae827"
   integrity sha512-jscx7KUIWzQatcL5PHY6xy0gEL9IGQcL5h/obxzX9foP2KoNk9cq66Ia8I2Kvpa7zBcPOeW1hU0hJNBq6CzcIQ==
